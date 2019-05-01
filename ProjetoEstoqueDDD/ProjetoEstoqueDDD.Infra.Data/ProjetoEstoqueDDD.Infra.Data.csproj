@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Contexto\ProjetoEstoqueContext.cs" />
     <Compile Include="EntityConfig\ClienteConfiguration.cs" />
+    <Compile Include="EntityConfig\ProdutoConfiguration.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
